@@ -1,0 +1,5 @@
+streamlit~=1.41.1
+tensorflow
+numpy
+pandas
+scikit-learn
